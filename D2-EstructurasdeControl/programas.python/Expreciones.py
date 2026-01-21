@@ -22,6 +22,8 @@ print(salida)
 
 #interpolacion de strings
 
+valor = 4+5> 23
+print(valor)
 
 salida = f"""
 ===== Exception aritmeticas =====
