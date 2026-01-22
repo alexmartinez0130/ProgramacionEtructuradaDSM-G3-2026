@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Calificaciones {
+public class calificaciones {
     public static void main(String[] args){
         // declaracion d e variables
         double calif1 = 0.0, calif2=0.0, calif3=0.0;
