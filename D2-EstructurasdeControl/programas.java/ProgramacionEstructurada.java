@@ -32,15 +32,15 @@ public class ProgramacionEstructurada {
        valor =4 +5> 23;
        System.out.println(valor); 
        
-       //salida= "===== Expreciones Aritmeticas =====" + 
-       //"\nLa suma es:" + suma +
-       //"\nLa resta es:" + resta +
-       //"\nLa multiplicacion es:" + multi +
-      // "\nLa Divicion es:" + div +
-       //"\nLa modulo es:" + mod +
-       //"\nLa potencia es:" + potencia;
+       salida= "===== Expreciones Aritmeticas =====" + 
+       "\nLa suma es:" + suma +
+       "\nLa resta es:" + resta +
+       "\nLa multiplicacion es:" + multi +
+      "\nLa Divicion es:" + div +
+       "\nLa modulo es:" + mod +
+       "\nLa potencia es:" + potencia;
 
-       //JOptionPane.showMessageDialog(null, salida);
+       JOptionPane.showMessageDialog(null, salida);
        
     } 
 }
